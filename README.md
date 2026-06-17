@@ -2,6 +2,7 @@
 
 👨‍💻 Intern: Muhammad Ahmad
 📌 Program: DevelopersHub Corporation AI/ML Engineering Internship
+📅 Duration: 2026
 
 📌 Project Overview
 
