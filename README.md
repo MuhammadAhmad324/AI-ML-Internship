@@ -2,7 +2,7 @@
 
 👨‍💻 Intern: Muhammad Ahmad
 📌 Program: DevelopersHub Corporation AI/ML Engineering Internship
-
+📅 Duration: 2026
 
 📌 Project Overview
 
@@ -15,7 +15,6 @@ Machine learning model development
 Classification and regression problems
 Model evaluation techniques
 Real-world dataset handling
-
 📊 Completed Tasks
 ✅ Task 1: Iris Dataset Analysis
 🎯 Objective
@@ -93,3 +92,5 @@ Model Evaluation Techniques
 📌 Tools Used Overall
 
 Python | Jupyter Notebook | Google Colab | Scikit-learn | Matplotlib | Seaborn | Pandas | NumPy
+
+🚀 Future Work
